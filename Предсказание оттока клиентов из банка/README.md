@@ -45,9 +45,9 @@ Exited — факт ухода клиента
 
 Первичное тестирование моделей без учета баланса классов продемонстрировало следующие показатели:
 
-|№|model_name	              |f1	     |auc_roc|
+|[№]|[model_name]	              |[f1]	     |[auc_roc]|
 
-|0| LogisticRegression     |0.279412 |0.781621| 
+|[0]| [LogisticRegression ]    |[0.279412 ]|]0.781621]| 
 
 1 DecisionTreeClassifier 0.554974 0.752420 
 
