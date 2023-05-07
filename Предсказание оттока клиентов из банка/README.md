@@ -75,6 +75,10 @@ Exited — факт ухода клиента
 1 DecisionTreeClassifier 0.587332 0.809231 
 
 2 RandomForestClassifier 0.632411 0.869277
+|:-: |:-: | :-: |:-:|
+|0 |LogisticRegression     |0.516667|0.787541 | 
+|1 |DecisionTreeClassifier |0.587332|0.809231  |
+|2| RandomForestClassifier |0.632411  |0.869277|
 
 , что являются максимальными полученными значениями;
 
