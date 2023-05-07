@@ -58,13 +58,11 @@ Exited — факт ухода клиента
 
 Лучшими результатами на валидационной выборке были признаны следующие значения:
 
-  model_name	           f1	     auc_roc
-
-0 LogisticRegression 0.518519 0.787752 
-
-1 DecisionTreeClassifier 0.586011 0.811371 
-
-2 RandomForestClassifier 0.646809 0.869711
+|№|model_name	              |f1     |auc_roc|
+|:-: |:-: | :-: |:-:|
+|0 |LogisticRegression     |0.518519|0.787752 | 
+|1 |DecisionTreeClassifier |0.586011 |0.811371 |
+|2| RandomForestClassifier |0.646809  |0.869711|
 
 Для финального тестирования была выбрана модель случаного леса и метод балансировки class_weight;
 
