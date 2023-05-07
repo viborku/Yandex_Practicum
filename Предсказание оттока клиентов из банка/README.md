@@ -50,9 +50,9 @@ Exited — факт ухода клиента
 |:-: |:-: | :-: |:-:|
 |0 |LogisticRegression     |0.279412 |0.781621| 
 
-1 DecisionTreeClassifier 0.554974 0.752420 
+|1 |DecisionTreeClassifier |0.554974 |0.752420 |
 
-2 RandomForestClassifier 0.539185 0.86877A
+|2| RandomForestClassifier |0.539185 |0.86877A|
 
 Сравнение представленных выше моделей в сравнении с dummy моделью показало непригодность несбалансированной выборки грамотно обучить модель;
 
