@@ -68,13 +68,7 @@ Exited — факт ухода клиента
 
 Финальное тестирование модели продемонстрировало следующие результаты:
 
-     model_name	           f1	     auc_roc
-  |:-: |:-: | :-: |:-:|   
-0 LogisticRegression     0.516667 0.787541 
-
-1 DecisionTreeClassifier 0.587332 0.809231 
-
-2 RandomForestClassifier 0.632411 0.869277
+     |№|model_name	          | f1	    | auc_roc|
 |:-: |:-: | :-: |:-:|
 |0 |LogisticRegression     |0.516667|0.787541 | 
 |1 |DecisionTreeClassifier |0.587332|0.809231  |
